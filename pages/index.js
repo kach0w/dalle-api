@@ -36,7 +36,7 @@ export default function Home() {
     <div>
       <Head>
         <title>OpenAI Quickstart</title>
-        <link rel="icon" href="/rusteze.png" />
+        <link rel="icon" href="/rusteze-removebg-preview.png" />
       </Head>
 
       <main className={styles.main}>
