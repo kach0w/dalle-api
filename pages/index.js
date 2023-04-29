@@ -40,6 +40,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <p style="color:red">Note: This project has been deprecated, see GitHub for more details.</p>
         {/* <img src="/rusteze.png" className={styles.icon} /> */}
         <h3>DALL·E API</h3>
         <form onSubmit={onSubmit}>
